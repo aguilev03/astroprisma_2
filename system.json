@@ -12,7 +12,7 @@
 			"name": "molilo"
 		}
 	],
-	"url": "https://github.com/moliloo/astroprisma",
+	"url": "https://github.com/aguilev03/astroprisma_2",
 	"readme": "README.md",
 	"changelog": "CHANGELOG.md",
 	"esmodules": ["module/astroprisma.mjs"],
@@ -24,7 +24,7 @@
 			"path": "lang/en.json"
 		}
 	],
-	"manifest": "https://raw.githubusercontent.com/moliloo/astroprisma/main/system.json",
+	"manifest": "https://raw.githubusercontent.com/aguilev03/astroprisma_2/main/system.json",
   "download": "",
   "background": "systems/astroprisma/assets/astroprisma-wallpapper.jpg"
 }
