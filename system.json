@@ -25,6 +25,6 @@
 		}
 	],
 	"manifest": "https://raw.githubusercontent.com/aguilev03/astroprisma_2/main/system.json",
-  "download": "",
+  "download": "https://github.com/aguilev03/astroprisma_2/releases/download/v1.0.0/astroprisma-v1.0.0.zip",
   "background": "systems/astroprisma/assets/astroprisma-wallpapper.jpg"
 }
